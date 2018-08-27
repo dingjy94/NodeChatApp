@@ -1,6 +1,11 @@
 ## Description
 
-Chat Room web application developed using Express.js and Socket.io.
+Chat Room web application developed using Express.js and Socket.io. 
+
+## Features
+- Real-time chat room application 
+- Allows users to select rooms and chat with room members or share their locations.
+
 
 ## TODO
 
